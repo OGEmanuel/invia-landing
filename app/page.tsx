@@ -29,7 +29,7 @@ export default function Home() {
             responses — all in one calm, organized place.
           </p>
           <Link
-            href={"https://invia-rosy.vercel.app/auth/signin"}
+            href={"https://invia-rosy.vercel.app/auth/sign-up"}
             className="text-white bg-[#479FFD] cursor-pointer w-max text-xl/7 active:scale-95 transition-transform -tracking-[0.02em] py-3 sm:py-4 px-5 sm:px-6 rounded-[99px] font-medium"
           >
             Try for free!
